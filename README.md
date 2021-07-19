@@ -17,4 +17,4 @@ Pattern of this program:
                                       
 This is the output of five lines
 
-You can enter number of lines as you wish
+You can enter the number of lines as you wish
